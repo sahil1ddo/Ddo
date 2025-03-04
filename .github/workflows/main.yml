@@ -35,4 +35,4 @@ jobs:
         run: python golem.py
         
       - name: Run File For 24x7
-        run: bash ddo.sh
+        run: bash Ddo.sh
